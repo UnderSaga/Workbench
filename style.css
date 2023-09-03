@@ -257,3 +257,43 @@ header {
     text-decoration: underline;
 }
 
+.terms {
+    font-size: 0.9em;
+    font-weight: 500;
+    color: #162938;
+    margin: -15px 0 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.terms label input {
+    accent-color: #162938;  
+    margin-right: 3px;
+}
+
+.terms a {
+    color: #162938;
+    text-decoration: none;
+}
+
+.terms a:hover {
+    text-decoration: underline;
+}
+
+.button-login {
+    font-size: 0.9em;
+    font-weight: 500;
+    color: #162938;
+    margin: 25px 0 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.button-login p a {
+    color: #162938;
+    text-decoration: none;
+}
+
+.button-login p a:hover {
+    text-decoration: underline;
+}
